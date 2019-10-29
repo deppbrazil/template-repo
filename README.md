@@ -19,7 +19,7 @@
 </p>
 
 ## Get Started
-``` bash
+```bash
 foo@bar:~$ npm install, or
 foo@bar:~$ yarn install
 ```
