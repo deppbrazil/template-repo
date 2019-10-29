@@ -11,7 +11,7 @@
         <img alt="Software License" src="https://img.shields.io/badge/License-MIT-brightgreen">
     </a>
     <a>
-        <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/deppbrazil.github.io?color=red">
+        <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/user/repo?color=red">
     </a>
     <a href="./README-ptbr.md">
         <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue">
@@ -19,10 +19,14 @@
 </p>
 
 ## Início
-* Item
+- npm install, or
+- yarn install
 
-## Demonstração
-* [Demo](#)
+## Descrição do desafio
+> Lorem ipsum...
+
+## Demo
+- [Clique aqui](#)
 
 ## Referência
-* [Markdown guide](https://guides.github.com/features/mastering-markdown/)
+- [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
