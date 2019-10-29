@@ -1,10 +1,4 @@
-# Name project # 
-<p align="left">
-    <a href="./README-ptbr.md" target="_blank">
-        <img alt="Software License" src="https://img.shields.io/badge/Translate-pt--br-blue">
-    </a>
-</p>
-
+# Name project
 
 <p align="center">
   <a href="" target="_blank" >
@@ -13,11 +7,14 @@
 </p>
 
 <p align="center">
-    <a href="LICENSE" target="_blank">
+    <a href="#">
         <img alt="Software License" src="https://img.shields.io/badge/License-MIT-brightgreen">
     </a>
-    <a href="SIZE" target="_blank">
-        <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/deppbrazil.github.io">
+    <a>
+        <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/deppbrazil.github.io?color=red">
+    </a>
+    <a href="./README-ptbr.md">
+        <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue">
     </a>
 </p>
 
