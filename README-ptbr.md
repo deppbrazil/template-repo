@@ -13,7 +13,7 @@
     <a>
         <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/repo?color=red">
     </a>
-    <a href="./README-ptbr.md">
+    <a href="./README.md">
         <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue">
     </a>
 </p>
