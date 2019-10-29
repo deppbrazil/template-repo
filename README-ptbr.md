@@ -14,7 +14,7 @@
         <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/repo?color=red">
     </a>
     <a href="./README.md">
-        <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue">
+        <img alt="Readme" src="https://img.shields.io/badge/Versão Original-en-blue">
     </a>
 </p>
 
