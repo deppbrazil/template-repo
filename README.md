@@ -1,4 +1,7 @@
 # Name project
+<a href="./README-ptbr.md">
+        <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
+</a>
 
 <p align="center">
   <a href="" target="_blank" >
@@ -8,13 +11,15 @@
 
 <p align="center">
     <a href="#">
-        <img alt="Software License" src="https://img.shields.io/badge/License-MIT-brightgreen">
+        <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
     </a>
-    <a>
-        <img alt="Size Project" src="https://img.shields.io/github/languages/code-size/deppbrazil/repo?color=red">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=red" />
+    <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
     </a>
-    <a href="./README-ptbr.md">
-        <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue">
+    <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
+        <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
     </a>
 </p>
 
