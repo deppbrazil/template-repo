@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-    <a href="#">
-        <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
-    </a>
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=red" />
-    <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
-    </a>
-    <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
-        <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
-    </a>
+  <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
+  </a>
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=red" />
+  <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
+    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
+  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
+  <a href="#">
+    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
+  </a>
 </p>
 
 ## Get Started
