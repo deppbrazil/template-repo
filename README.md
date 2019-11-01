@@ -18,7 +18,7 @@
     <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
-  <a href="#">
+  <a href="./LICENSE">
     <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
   </a>
 </p>
@@ -57,3 +57,7 @@ function nameFunction () => {}
 
 ## Reference 
 - [Markdown guide](https://guides.github.com/features/mastering-markdown/)
+
+
+## License
+- [MIT](./LICENSE) &copy; Mir Carvalho
