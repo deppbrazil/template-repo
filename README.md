@@ -1,5 +1,5 @@
 # Name project
-<a href="./README-ptbr.md">
+<a href="./README_pt-br.md">
         <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
 </a>
 
