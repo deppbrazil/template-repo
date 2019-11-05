@@ -1,6 +1,6 @@
 # Nome do projeto
 <a href="./README.md">
-        <img alt="Readme" src="https://img.shields.io/badge/Versão Original-en-blue.svg">
+  <img alt="Readme" src="https://img.shields.io/badge/Versão Original-en-blue.svg">
 </a>
 
 <p align="center">
@@ -32,15 +32,15 @@ foo@bar:~$ yarn install
 ## Exemplo HTML5
 ```html
 <section>
-  <h1>Hello!</h1>
+<h1>Hello!</h1>
 </section>
 ```
 
 ## Exemplo CSS3
 ```css
 .foo {
-  width: 100vw;
-  height: 100vh;
+width: 100vw;
+height: 100vh;
 }
 ```
 
@@ -50,13 +50,13 @@ function nameFunction () => {}
 ```
 
 ## Descrição do desafio
-  > Lorem ipsum...
+> Lorem ipsum...
 
 ## Demo
-  - [Clique aqui](#)
+- [Clique aqui](#)
 
 ## Referência
-  - [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Licença 
-  - [MIT](./LICENSE) &copy; Mir Carvalho
+- [MIT](./LICENSE) &copy; Mir Carvalho
