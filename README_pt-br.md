@@ -50,13 +50,13 @@ function nameFunction () => {}
 ```
 
 ## Descrição do desafio
-> Lorem ipsum...
+>  Lorem ipsum...
 
 ## Demo
-- [Clique aqui](#)
+-  [Clique aqui](#)
 
 ## Referência
-- [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
+-  [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Licença 
-- [MIT](./LICENSE) &copy; Mir Carvalho
+-  [MIT](./LICENSE) &copy; Mir Carvalho
