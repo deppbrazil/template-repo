@@ -17,6 +17,9 @@
   </a>
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=red" />
   <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
+</p>
+
+<p align="center">
     <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
