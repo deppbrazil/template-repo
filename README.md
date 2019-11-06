@@ -15,16 +15,16 @@
   <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
   </a>
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=red" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
   <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
 </p>
 
 <p align="center">
-    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg">
+    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg?color=blue">
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
   <a href="./LICENSE">
-    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
+    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
   </a>
 </p>
 
