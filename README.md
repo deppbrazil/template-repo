@@ -53,13 +53,11 @@ function nameFunction () => {}
 >Lorem ipsum...
 
 ## Demo
-- [Click here](https://www.deppbrazil.com)
-  - oi
+  - [Click here](https://www.deppbrazil.com)
 
 ## Reference 
-- [Markdown guide](https://guides.github.com/features/mastering-markdown/)
+  - [Markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 
 ## License
-- MIT
-  - [Here](./LICENSE) &copy; Mir Carvalho
+  - [MIT](./LICENSE) &copy; Mir Carvalho

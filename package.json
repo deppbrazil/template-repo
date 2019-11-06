@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "remark-stringify": "^7.0.3"
+  }
+}
