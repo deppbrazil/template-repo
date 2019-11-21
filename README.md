@@ -23,7 +23,9 @@
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
   </a>
   <!-- Repo size -->
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
+  <a href="https://github.com/deppbrazil/repository-patterns">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
+  </a>
 </p>
 
 <!-- Seconds badges -->
@@ -33,7 +35,9 @@
     <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg?color=blue" />
   </a>
   <!-- Language count -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
+  <a href="https://github.com/deppbrazil/repository-patterns">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
+  </a>
   <!-- License -->
   <a href="./LICENSE">
     <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
