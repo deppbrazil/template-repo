@@ -1,3 +1,3 @@
 const Foo = () => {
-    return 'Hi!';
+    return "Hi!";
 }
