@@ -1,3 +1,3 @@
-const My = () => {
-    alert('Hello Word');
+const Foo = () => {
+    return 'Hi!';
 }
