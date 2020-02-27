@@ -1,4 +1,4 @@
-# Nome do projeto
+# Nome do projeto [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
 
 <!-- Traduzir -->
 <a href="./README.md">
