@@ -2,13 +2,13 @@
 
 <!-- Translate -->
 <a href="./README-pt-br.md">
-  <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
+  <img alt="Translate" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
 </a>
 
 <!-- Banner -->
 <p align="center">
   <a href="" target="_blank" >
-    <img alt="" src="./.github/assets/brand.jpg" width="300" />
+    <img alt="Banner" src="./.github/assets/brand.jpg" width="300" />
   </a>
 </p>
 
