@@ -1,7 +1,1 @@
-const Foo = () => (
-    <div>
-        <h1>
-            Hello!
-        </h1>
-    </div>
-)
+const Foo = () => <h1>Hello!</h1>
