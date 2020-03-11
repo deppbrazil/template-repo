@@ -1,1 +1,1 @@
-const Foo = () => <h1>Hello!</h1>
+const Foo = () => <h1>Hello!</h1>;
